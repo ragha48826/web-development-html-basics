@@ -2,7 +2,7 @@
 implementing basic html tags
 This repository contains the implementation of basic html tags
 1)meta tag
-2)ending tag
+2)heading tag
 3)paragraph tag
 4)bold tag
 5)italics
